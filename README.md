@@ -1,4 +1,4 @@
-  👋 Hola 👋
+  👋 ¡Hola, hola! 👋
 # 💫 Soy MayexS
 ## ✨ Full Stack Developer| Tester QA Manual ✨
 ### 👋 ¿Quién soy?:
