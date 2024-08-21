@@ -2,9 +2,9 @@
 # 💫 Soy MayexS
 ## ✨ Full Stack Developer| Tester QA Manual ✨
 ### 👋 ¿Quién soy?:
-- 🔭 Soy persona proactiva y comprometida con la excelencia en el trabajo.
-- 🌱 Busco contribuir al éxito de proyectos interesantes.
-- 👯 Tengo como objetivo asumir nuevos retos profesionales, enfocándome en el área de desarrollo.
+- 🔭 Soy una persona proactiva y comprometida con la excelencia en el trabajo.
+- 🌱 Estoy enfocándome en el área de desarrollo, así que ando aprendiendo y practicando constantemente.
+- 👯 Tengo como objetivo asumir nuevos retos profesionales, busco contribuir al éxito de proyectos interesantes.
 - 😄 Aporto perspectiva fresca y creativa a las tareas asignadas.
 - ⚡ Con más de 10 años de experiencia como publicista, mi enfoque se centra en la mejora continua.
 
