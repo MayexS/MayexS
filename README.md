@@ -1,6 +1,6 @@
   👋 ¡Hola, hola! 👋
 # 💫 Soy MayexS
-## ✨ Full Stack Developer| Tester QA Manual ✨
+## ✨Tester QA Manual | FrontEnd Developer ✨
 ### 👋 ¿Quién soy?:
 - 🔭 Soy una persona proactiva y comprometida con la excelencia en el trabajo.
 - 🌱 Estoy enfocándome en el área de desarrollo, así que ando aprendiendo y practicando.
